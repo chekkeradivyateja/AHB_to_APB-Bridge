@@ -1,10 +1,9 @@
 
-// AHB to APG Bridge | Maven Silicon
+// AHB to APG Bridge
 //
 //
 //
 // AHB Slave Interface
-// Date:04-06-2022
 //
 //
 // Modifications: The Combinational part sensitivity list did not inclued Hresetn and hence they gave x output on reset
