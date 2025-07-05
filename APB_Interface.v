@@ -1,11 +1,3 @@
-// AHB to APG Bridge | Maven Silicon
-//
-//
-//
-// AHB Master
-// Date:17-06-2022
-//
-// By-Prajwal Kumar Sahu
 
 module APB_Interface(Pwrite,Pselx,Penable,Paddr,Pwdata,Pwriteout,Pselxout,Penableout,Paddrout,Pwdataout,Prdata);
 
