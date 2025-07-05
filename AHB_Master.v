@@ -1,11 +1,11 @@
-// AHB to APG Bridge | Maven Silicon
+// AHB to APG Bridge
 //
 //
 //
 // AHB Master
-// Date:14-06-2022
+// Date:05-07-2025
 //
-// By-Prajwal Kumar Sahu
+// By-Divya Teja
 
 
 module AHB_Master(Hclk,Hresetn,Hresp,Hrdata,Hwrite,Hreadyin,Hreadyout,Htrans,Hwdata,Haddr);
